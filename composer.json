@@ -2,7 +2,7 @@
     "name": "gdcb0711/hello-world",
     "description": "My First package",
     "type": "library",
-    "license": "MIT",
+    "license": "Proprietary",
     "minimum-stability": "dev",
      "require": {
         "php": ">=5.3.0"
